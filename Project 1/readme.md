@@ -1,4 +1,5 @@
-### Project 1 -Prepare to Market
+# Project 1 
+>### Prepare to Market:
 >
 >* Value proposition for the chosen product.
 >
